@@ -8,7 +8,9 @@ The article discusses how learning to code has become increasingly essential in 
 
 ## Jupyter Notebook
 
-All the precise installation instructions, code, and HTML files for this app are included in the accompanying Jupyter notebook. The notebook provides detailed steps on how to set up the project, run the Flask application, and customize the app further.
+You can **download the Jupyter notebook** provided with this app, which contains all the precise installation instructions, Python code, and HTML files necessary to run the app. With the notebook, you have two options:
+1. **Directly run the app**: After downloading, you can follow the instructions in the notebook and run the app directly from your command line using `python`.
+2. **Use it as a tutorial**: If you prefer a more hands-on learning experience, you can go through the code step-by-step to create the app from scratch on your own, using the notebook as a detailed guide.
 
 ## Complete Prompt:
 
