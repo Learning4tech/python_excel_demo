@@ -6,6 +6,8 @@ This app is part of a demonstration showcasing the importance of learning to cod
 
 The article discusses how learning to code has become increasingly essential in the modern world and how tools like GPT can assist in creating and refining coding projects. GPT can generate functional code snippets, provide explanations, and streamline development tasks. This app, generated based on a simple prompt, showcases how GPT can help create practical solutions with minimal human input, demonstrating the future of coding assistance.
 
+Read the [full article](https://trivium-l4t.blogspot.com/2024/09/why-learning-to-code-is-still-essential.html) here: 
+
 ## Jupyter Notebook
 
 You can **download the Jupyter notebook** provided with this app, which contains all the precise installation instructions, Python code, and HTML files necessary to run the app. With the notebook, you have two options:
