@@ -8,11 +8,13 @@ The article discusses how learning to code has become increasingly essential in 
 
 Read the [full article](https://trivium-l4t.blogspot.com/2024/09/why-learning-to-code-is-still-essential.html) here: 
 
-## Jupyter Notebook
+## Jupyter Notebook & Latest Release
 
-You can **download the Jupyter notebook** provided with this app, which contains all the precise installation instructions, Python code, and HTML files necessary to run the app. With the notebook, you have two options:
-1. **Directly run the app**: After downloading, you can follow the instructions in the notebook and run the app directly from your command line using `python`.
-2. **Use it as a tutorial**: If you prefer a more hands-on learning experience, you can go through the code step-by-step to create the app from scratch on your own, using the notebook as a detailed guide.
+You can **download the Jupyter notebook** provided with this app, which includes detailed installation instructions, Python code, and HTML files needed to run the application. You have a couple of options:
+1. **Directly run the app**: After downloading the notebook, follow the instructions and run the app from your command line using `python`.
+2. **Use it as a tutorial**: If you prefer a more interactive learning experience, you can go through the code step-by-step to build the app from scratch, using the notebook as a comprehensive guide.
+
+Alternatively, you can download the **latest release** from [https://github.com/Learning4tech/python_excel_demo/releases](https://github.com/Learning4tech/python_excel_demo/releases) and run the app by following the provided command-line instructions.
 
 ## Complete Prompt:
 
