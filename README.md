@@ -6,6 +6,10 @@ This app is part of a demonstration showcasing the importance of learning to cod
 
 The article discusses how learning to code has become increasingly essential in the modern world and how tools like GPT can assist in creating and refining coding projects. GPT can generate functional code snippets, provide explanations, and streamline development tasks. This app, generated based on a simple prompt, showcases how GPT can help create practical solutions with minimal human input, demonstrating the future of coding assistance.
 
+## Jupyter Notebook
+
+All the precise installation instructions, code, and HTML files for this app are included in the accompanying Jupyter notebook. The notebook provides detailed steps on how to set up the project, run the Flask application, and customize the app further.
+
 ## Complete Prompt:
 
 "I need a complete Python Flask app that allows users to read and write data to an Excel file. The app should have an HTML front-end with some CSS styling. Here are the details:
